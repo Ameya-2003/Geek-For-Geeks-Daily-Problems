@@ -1,4 +1,4 @@
-![OIG4](https://github.com/Ameya-2003/Geek-For-Geeks-Daily-Problems/assets/133382057/98888891-8df9-4ccb-b8db-0a8b51719f5e)
+![OIG2](https://github.com/Ameya-2003/Geek-For-Geeks-Daily-Problems/assets/133382057/08082860-6759-4dd4-be28-6f4264f2ba6e)
 
 # 🎉 Ameya Muktewar's Daily Geek For Geeks Problem's Solutions in Java
 
