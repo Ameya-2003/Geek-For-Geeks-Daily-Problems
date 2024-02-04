@@ -1,11 +1,10 @@
-![image](https://github.com/Ameya-2003/Geek-For-Geeks-Daily-Problems/assets/133382057/2ca97099-1291-472d-b2f0-93a34cf1afc8)
+![OIG4](https://github.com/Ameya-2003/Geek-For-Geeks-Daily-Problems/assets/133382057/98888891-8df9-4ccb-b8db-0a8b51719f5e)
 
-
-# 🎉 Ameya Muktewar's Daily Geek For Geeks Problems Solutions in Java
+# 🎉 Ameya Muktewar's Daily Geek For Geeks Problem's Solutions in Java
 
 This repository contains Java solutions to coding problems on Geek for Geeks, contributed by me. Geek for Geeks is a popular online platform that provides a vast collection of coding interview questions. The solutions provided here aim to demonstrate Ameya's coding proficiency and problem-solving skills in Java.
 
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?)](https://leetcode.com/AmeyaMuktewar/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/ameya202mh2)
 
 ## 📝 Solutions
 
