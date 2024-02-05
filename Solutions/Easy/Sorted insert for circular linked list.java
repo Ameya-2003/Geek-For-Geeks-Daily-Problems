@@ -1,5 +1,3 @@
-
-
 //User function Template for Java
 class Solution {
     public Node sortedInsert(Node head, int data) {
