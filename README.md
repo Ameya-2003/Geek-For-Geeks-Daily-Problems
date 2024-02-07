@@ -4,7 +4,7 @@
 
 This repository contains Java solutions to coding problems on Geek for Geeks, contributed by me. Geek for Geeks is a popular online platform that provides a vast collection of coding interview questions. The solutions provided here aim to demonstrate Ameya's coding proficiency and problem-solving skills in Java.
 
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/ameya202mh2)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/vitbhopzdoe)
 
 ## 📝 Solutions
 
