@@ -1,0 +1,16 @@
+class Solution
+{
+    int min=Integer.MAX_VALUE;
+    Integer pre= null;
+    
+    int absolute_diff(Node root)
+    {
+        if(root==null)return min;
+        //Your code here
+        absolute_diff(root.left);
+        if(pre!=null)min=Math.min(min,root.data-pre);
+        pre=root.data;
+        absolute_diff(root.right);
+        return min;
+    }
+}
